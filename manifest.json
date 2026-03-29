@@ -1,0 +1,18 @@
+{
+  "name": "TeachMate",
+  "short_name": "TeachMate",
+  "description": "AI-powered classroom assistant for teachers",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#00c8d4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/teachmate-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
